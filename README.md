@@ -1,1 +1,2 @@
-# capstone
+#   project name: capstone
+#   author: Shawn
